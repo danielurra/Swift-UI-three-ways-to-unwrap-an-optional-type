@@ -10,5 +10,10 @@ First let's have autocomplete to show us the error and also the possible fixes:<
 
 Hit the second `Fix` so we can have autocomplete to run and fix this for us.
 If it is capable to unwrap the type then use whatever value you get, in case you can't please use this number e.g. "1".<br>
+![method-20f3](https://github.com/danielurra/Swift-UI-three-ways-to-unwrap-an-optional-type/assets/51704179/2a476b81-a848-4f97-b11a-a3260e97a582)
+
+## Method 3 - Special consant LET
+
+
 
 
