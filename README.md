@@ -1,4 +1,4 @@
-# SwiftUI three ways to unwrap an optional type
+# SwiftUI three ways to unwrap an Optional type
 ![three safe ways to unwrap an optional type](https://github.com/danielurra/Swift-UI-three-ways-to-unwrap-an-optional-type/assets/51704179/6f6a0522-66ad-4297-9c4c-cf54cc735a5a)
 
 ## Method 1 - by using an IF Statement
