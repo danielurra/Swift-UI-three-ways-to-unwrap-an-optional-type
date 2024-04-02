@@ -14,6 +14,8 @@ If it is capable to unwrap the type then use whatever value you get, in case you
 
 ## Method 3 - Special IF consant LET
 You create a new constant that only exists as long as your Optional is not `nail`:<br>
+![method-3of3](https://github.com/danielurra/Swift-UI-three-ways-to-unwrap-an-optional-type/assets/51704179/61b4db85-ee08-4604-b694-1a5f7bedc958)
+
 
 
 
